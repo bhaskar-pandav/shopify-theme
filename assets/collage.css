@@ -3,13 +3,25 @@
   margin-bottom: 3rem;
 }
 
-.collage {
-  display: grid;
+
+.collage__item > * {
+  width: 100%;
 }
 
 .collage__item > * {
   width: 100%;
+}
 
+.collage__item > * {
+  width: 100%;
+}
+
+.collage__item > * {
+  width: 100%;
+}
+
+.collage__item > * {
+  width: 100%;
 }
 
 .collage__item .card__content {
